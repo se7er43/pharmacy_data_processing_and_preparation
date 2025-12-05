@@ -8,7 +8,8 @@
 *Python 3+;
 *Pandas ;
 *NumPy;
-*Jupyter Notebook|Colab.
+*Jupyter Notebook|Colab;
+*Power BI
 
 
 В ноутбуке pharmacy_data_processing_and_preparation.ipynb реализованы следующие шаги:
@@ -33,6 +34,7 @@
 Результаты оптимизации.
 Благодаря изменению типов данных (dtypes optimization), объем потребляемой памяти датафреймом был уменьшен:
 	До обработки: ~2.5 MB (условно) | После обработки: ~0.4 MB | Сжатие: в ~6 раз
+
 
 
 
